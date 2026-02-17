@@ -1,0 +1,1 @@
+This is an old project where i used an ESP32 with a few SPST switches, a potentiometer, and an RGB strip inside a 3d Printed box to control a biamp tesira. It worked for the most part if you want to use this feel free all of the variables you need to set are at the top then compile and flash to an ESP32.
